@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "379806087140",
+    "project_id": "todo-galaxy",
+    "storage_bucket": "todo-galaxy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379806087140:android:4dd0cd48e1f544addf39f1",
+        "android_client_info": {
+          "package_name": "com.example.todo_list"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379806087140-ujfft4qborgi6hvutl5vb1mvremeqij0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPGO9815cvxOE0ayluEbQ9NsPFjDA8aMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379806087140-ujfft4qborgi6hvutl5vb1mvremeqij0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
